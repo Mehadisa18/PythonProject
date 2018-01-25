@@ -1,0 +1,5 @@
+Python Numbers:
+* Python automatically converts int to Long when the Number reaches a threshold (In version 2)
+* In python 3 we can store number of any length in int ( As big as your computer can take) (Version 3)
+* Python 3 - 3 types of numbers : int, Float and Complex ( i is represented as j)
+
