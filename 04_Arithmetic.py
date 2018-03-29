@@ -61,8 +61,7 @@ print(i/r)
 # lets do complex by complex
 n = 22+2j
 print(i/n)
-# in this case real part divides real and the imaginary part divides the imaginary 
-#part
+# conjugate technique
 
 
 
