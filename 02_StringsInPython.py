@@ -10,3 +10,8 @@ print(message3)
 print(message4)
 print(message5)
 print(message6)
+print(message1[1])
+# help(str)
+str1="hello"
+str2="hellor"
+print(str1 in str2)
