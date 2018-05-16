@@ -3,3 +3,8 @@ Python Numbers:
 * In python 3 we can store number of any length in int ( As big as your computer can take) (Version 3)
 * Python 3 - 3 types of numbers : int, Float and Complex ( i is represented as j)
 
+Split function without a delimiter : 
+
+'hjui'. split() ----> returns ['hjui']
+
+'hjui ki'.split() ------> returns ['hjui','ki'] # it considers white space as delimiter

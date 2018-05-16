@@ -56,8 +56,12 @@ print(NewUser)
 print(NewUser.popitem()) # removes some item and returns its key value pair
 
 
-
-
+#default dict
+# sets initial value inside a dictionary
+from collections import defaultdict
+dict1 = defaultdict(list)
+dict1[0].append("k")
+print(dict1)
 
 
 
